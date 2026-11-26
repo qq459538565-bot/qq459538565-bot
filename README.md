@@ -12,6 +12,7 @@ Two stubborn beliefs sit behind everything I ship:
 
 | Project | What it does | Link |
 | :--- | :--- | :--- |
+| **AdPack HTML5** | Free 0-upload browser HTML5 Ad ZIP Pre-Flight Validator (Google Ads 600 KB, IAB 150 KB, DV360, Adform, App Campaigns + sandboxed preview) & Figma pure-CSS banner exporter | [Free ZIP Validator](https://adpack.localledgerstudio.xyz/) · [vs Bannerify](https://adpack.localledgerstudio.xyz/bannerify-alternative) |
 | **LocalLedger Studio** | Browser-local single-file workbenches: EInvoiceLocal (XRechnung / ZUGFeRD), CRAGuard (EU CRA SBOM), PropGuard, TradeGuard & YC DNS datasets | [www.localledgerstudio.xyz](https://www.localledgerstudio.xyz/) |
 | **RiskOps MCP Suite** | Zero-dependency Node.js stdio MCP server + free web portal (`audit_vendor_security`, SEC 8-K filings, Google OSV.dev CVEs, IEEE-754 quant math) | [Repo](https://github.com/qq459538565-bot/riskops-mcp-suite) · [Portal](https://qq459538565-bot.github.io/riskops-mcp-suite/) |
 | **LocalLedger Bank PDF -> CSV** | Converts digital US/UK/EU (`1.234,56 €`, `DD.MM.YYYY`) & Amex bank PDFs to QuickBooks/Xero CSV inside your browser tab — works with Wi-Fi off | [Try Live Demo](https://qq459538565-bot.github.io/riskops-mcp-suite/bank-converter/index.html) |
